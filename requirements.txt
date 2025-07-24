@@ -1,0 +1,22 @@
+KO# Core ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+transformers>=4.30.0
+Pillow>=9.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Vector search
+faiss-cpu>=1.7.0
+# For GPU support, use: faiss-gpu>=1.7.0
+
+# Utilities
+numpy>=1.24.0
+scikit-image>=0.20.0
+tqdm>=4.65.0
+
+# Optional: For better performance
+# tensorrt  # Only if you have NVIDIA GPU
+# onnxruntime-gpu  # Only if you have NVIDIA GPU 
