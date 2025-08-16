@@ -35,10 +35,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Model files (too large for git)
-models/*.pt
-models/*.pth
-models/*.onnx
 
 # Uploads and temporary files
 uploads/
